@@ -1,4 +1,7 @@
-### Hi there 👋
+I am making open-source introductory statistics materials. You can see a [preview of my questions](https://ceworley.github.io/statqs/), and **video explanations** are linked in the answers. The numbers (and sometimes wording) are randomly generated.
+
+
+
 
 <!--
 **ceworley/ceworley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
