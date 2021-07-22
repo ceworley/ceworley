@@ -1,5 +1,9 @@
 I am making open-source introductory statistics materials. You can see a [preview of my questions](https://ceworley.github.io/statqs/), and **video explanations** are linked in the answers. The numbers (and sometimes wording) are randomly generated.
 
+I like using archery as a context for statistics. For example, should this archer adjust the horizontal aspect of their sight?
+
+![a target with a dozen arrows](target2.png)
+
 
 
 
